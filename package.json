@@ -1,0 +1,15 @@
+{
+  "name": "commons",
+  "version": "1.0.0",
+  "description": "common entity to be used across different servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Dagiya",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "express-validator": "^7.0.1"
+  }
+}
