@@ -3,8 +3,8 @@ const statusCode = require('./status-code');
 const reqValidations = require('./req-validators');
 
 module.exports = {
-    logger,
-    statusCode,
-    initLogger,
-    reqValidations,
-}
+  logger,
+  statusCode,
+  initLogger,
+  reqValidations,
+};
